@@ -1,0 +1,11 @@
+.characterSelection {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.characterSelection:hover {
+  cursor: pointer;
+  background-color: #e0e0e0;
+}
